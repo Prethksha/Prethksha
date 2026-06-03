@@ -1,16 +1,34 @@
 ## Hi there 👋
+## About Me
+🎓 Computer Science Student
+🤖 Learning AI, Generative AI and AI Agents
+🌱 Exploring Open Source through GSSoC
 
-<!--
-**Prethksha/Prethksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Interested in Python, Machine Learning and Web Development
+## Skills
+- Python
+- Git & GitHub
+- HTML
+- CSS
+- Generative AI
+- Prompt Engineering
 
-Here are some ideas to get you started:
+## Certifications
+- IBM SkillsBuild - Generative AI Fundamentals
+- IBM SkillsBuild - AI Agents
+✔ Prompt Engineering
+✔ AI Ethics
+✔ Machine Learning Fundamentals
+✔ Python Programming
+✔ Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for 2026
+- Contribute to Open Source
+- Build Real-World Projects
+- Secure Internships
+- Improve DSA and Development Skills
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/prethksha-prem-kumar-a3518137a
+
+⭐ Learning something new every day!
