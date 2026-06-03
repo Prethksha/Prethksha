@@ -10,11 +10,14 @@ Welcome to my GitHub! I'm a Computer Science student passionate about learning n
 💻 Interested in Python, Machine Learning and Web Development
 ## Skills
 - Python
-- Git & GitHub
+-Git & GitHub
 - HTML
 - CSS
 - Generative AI
+- Ethical AI
 - Prompt Engineering
+- AI Agents
+- RAG
 
 ## Certifications
 - IBM SkillsBuild - Generative AI Fundamentals
