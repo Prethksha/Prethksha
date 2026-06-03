@@ -3,6 +3,9 @@
 🎓 Computer Science Student
 🤖 Learning AI, Generative AI and AI Agents
 🌱 Exploring Open Source through GSSoC
+Building Projects and Expanding Skills
+
+Welcome to my GitHub! I'm a Computer Science student passionate about learning new technologies, building practical projects, and growing my skills in AI, software development, and open-source collaboration.
 
 💻 Interested in Python, Machine Learning and Web Development
 ## Skills
