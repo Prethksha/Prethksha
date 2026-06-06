@@ -8,16 +8,28 @@
 Welcome to my GitHub! I'm a Computer Science student passionate about learning new technologies, building practical projects, and growing my skills in AI, software development, and open-source collaboration.
 
 💻 Interested in Python, Machine Learning and Web Development
-## Skills
+
+## Tech stack
 - Python
--Git & GitHub
-- HTML
-- CSS
+- Git & GitHub
+- Streamlit
+- Object-Oriented Programming
+- Gemini API
 - Generative AI
-- Ethical AI
-- Prompt Engineering
-- AI Agents
-- RAG
+- Ethical AI, Prompt Engineering, AI Agents, RAG
+
+📌 Featured Projects
+⚡ MindForge AI
+- An AI-powered study companion built with Streamlit and Gemini AI.
+Features:
+- Study Notes Generation
+- Concept Explanation
+- Interview Preparation
+- PDF Export
+- Interactive Chat Interface
+- 
+🔐 Password Generator
+A Python application that generates secure passwords based on user preference
 
 ## Certifications
 - IBM SkillsBuild - Generative AI Fundamentals
@@ -31,6 +43,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about learning n
 ## Goals for 2026
 - Contribute to Open Source
 - Build Real-World Projects
+- Strengthen DSA Skills
 - Secure Internships
 - Improve DSA and Development Skills
 
