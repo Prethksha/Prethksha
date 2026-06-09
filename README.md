@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about learning n
 - Ethical AI, Prompt Engineering, AI Agents, RAG
 
 📌 Featured Projects
-⚡ MindForge AI
+⚡ MindForge AI 
 - An AI-powered study companion built with Streamlit and Gemini AI.
 Features:
 - Study Notes Generation
