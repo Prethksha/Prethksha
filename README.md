@@ -27,8 +27,9 @@ Features:
 - Interview Preparation
 - PDF Export
 - Interactive Chat Interface
-- 
+  
 🔐 Password Generator
+
 A Python application that generates secure passwords based on user preference
 
 ## Certifications
