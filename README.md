@@ -50,4 +50,5 @@ A Python application that generates secure passwords based on user preference
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/prethksha-prem-kumar-a3518137a
 
+
 ⭐ Learning something new every day!
