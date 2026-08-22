@@ -54,7 +54,7 @@ AI-powered weather application providing weather insights and forecasts.
 ## 🏆 Experience & Activities
 
 - 🌱 Open Source & GSSoC
-     President at MLSC MITADT
+- President at MLSC MITADT
 - 👩‍💻 ACM-W Student Chapter Member
 - ⚡ IEEE Student Chapter- Documentation member
 - 🚀 Bharatiya Antariksh Hackathon 2026 Participant
