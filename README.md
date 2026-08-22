@@ -1,52 +1,66 @@
-## Hi there 👋
-## About Me
-🎓 Computer Science Student
-🤖 Learning AI, Generative AI and AI Agents
-🌱 Exploring Open Source 
-🚀Building Projects and Expanding Skills
+# I'm Prethksha!!!
 
-Welcome to my GitHub! I'm a Computer Science student passionate about learning new technologies, building practical projects, and growing my skills in AI, software development, and open-source collaboration.
+🎓 B.Tech CSE (AI & ML) Student at MIT ADT University, Pune  
+💻 Learning DSA, AI/ML & Full-Stack Development  
+🚀 Building projects to turn ideas into real-world solutions
 
-💻 Interested in Python, Machine Learning and Web Development
 
-## Tech stack
+## 🛠️ Tech Stack
+
+### Languages
 - Python
-- Git & GitHub
-- Streamlit
-- Object-Oriented Programming
-- Gemini API
+- C++
+- HTML
+- CSS
+
+### AI / ML
 - Generative AI
-- Ethical AI, Prompt Engineering, AI Agents, RAG
+- Prompt Engineering
+- Gemini API
 
-📌 Featured Projects
-⚡ MindForge AI 
-- An AI-powered study companion built with Streamlit and Gemini AI.
-Features:
-- Study Notes Generation
-- Concept Explanation
-- Interview Preparation
-- PDF Export
-- Interactive Chat Interface
-  
-🔐 Password Generator
+### Web Development
+- Streamlit
 
-A Python application that generates secure passwords based on user preference
+### Tools
+- Git
+- GitHub
+- VS Code
+- leetcode
 
-## Certifications
-- IBM SkillsBuild - Generative AI Fundamentals
-- IBM SkillsBuild - AI Agents
-✔ Prompt Engineering
-✔ AI Ethics
-✔ Machine Learning Fundamentals
-✔ Python Programming
-✔ Cloud Computing
+---
 
-## Goals for 2026
-- Contribute to Open Source
-- Build Real-World Projects
-- Strengthen DSA Skills
-- Secure Internships
-- Improve DSA and Development Skills
+## 🚀 Featured Projects
+
+### 🤖 MindForge AI
+AI-powered study and note-generation application.
+**Tech:** Python • Streamlit • Gemini API • ReportLab
+
+### 🌦️ SkySense AI
+AI-powered weather application providing weather insights and forecasts.
+**Tech:** Python • Streamlit • OpenWeatherMap API • Plotly
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms in C++
+- Machine Learning
+- Full-Stack Development
+- Generative AI
+- Problem Solving
+
+---
+
+## 🏆 Experience & Activities
+
+- 🌱 Open Source & GSSoC
+     President at MLSC MITADT
+- 👩‍💻 ACM-W Student Chapter Member
+- ⚡ IEEE Student Chapter- Documentation member
+- 🚀 Bharatiya Antariksh Hackathon 2026 Participant
+
+---
+
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/prethksha-prem-kumar-a3518137a
